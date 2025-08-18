@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/7df5bf55-bbcb-4540-85f6-53a4dab02845
+**URL**: https://sudoku-solver-heow.vercel.app/
 
 ## How can I edit this code?
 
