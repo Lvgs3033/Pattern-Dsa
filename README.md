@@ -1,7 +1,3 @@
-# Welcome to my project
-
-## Project info
-
 **URL**: https://sudoku-solver-heow.vercel.app/
 
 ## How can I edit this code?
